@@ -1,3 +1,4 @@
+// Author: Noel Regis <noelregis718@gmail.com>
 import React, { useCallback, useEffect, useState } from "react";
 import Quill from "quill";
 import "quill/dist/quill.snow.css";
